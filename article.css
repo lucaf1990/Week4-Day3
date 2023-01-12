@@ -1,0 +1,11 @@
+div.doc{display: flex;}
+div.doc div{display: block;}
+img{
+    width: 400px;
+    height: 300px;
+}
+
+.text{
+    width: 400px;
+    height: 300px;
+}
